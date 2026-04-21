@@ -1,4 +1,4 @@
-import portfolioImg from "../../images/PortfolioImg3.jpg";
+import portfolioImg from "../../images/img.jpg";
 import "./hero.css";
 
 export default function Hero() {
