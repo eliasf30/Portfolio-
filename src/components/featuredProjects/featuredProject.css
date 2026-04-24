@@ -1,5 +1,5 @@
 .featured-project {
-    margin: 0;
+  margin: 0;
   background: linear-gradient(
     180deg,
     #0f172a 0%,
@@ -17,7 +17,7 @@
 
 .project-content {
   max-width: 1100px;
-  margin: 0 auto;
+  margin: 0 auto 5rem auto;
   display: grid;
   grid-template-columns: 1.2fr 1fr;
   gap: 3rem;
